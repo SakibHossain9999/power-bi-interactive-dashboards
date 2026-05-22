@@ -55,11 +55,11 @@ This interactive HR dashboard analyses workforce data for **TechMENA** — a fic
 ```
 techmena-employee-report/
 │
-├── TechMENA_Employee_Report_Dashboard.pbix   ← Power BI report
 ├── data/
 │   └── techmena_Employees.xlsx               ← Employee data
 ├── screenshots/
 │   └── techmena-dashboard.png                ← Dashboard preview
+├── TechMENA_Employee_Report_Dashboard.pbix   ← Power BI report
 └── README.md
 ```
 

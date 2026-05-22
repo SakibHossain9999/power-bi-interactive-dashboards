@@ -53,11 +53,11 @@ This interactive dashboard visualises student data for **Dolphin High School** �
 ```
 dolphin-high-school-performance/
 │
-├── Dolphin_High_School_Students_Performance_Dashboard.pbix   ← Power BI report
 ├── data/
 │   └── dolphin_high_school_students.xlsx                     ← Student data
 ├── screenshots/
 │   └── dolphin-high-school-dashboard.png                     ← Dashboard preview
+├── Dolphin_High_School_Students_Performance_Dashboard.pbix   ← Power BI report
 └── README.md
 ```
 

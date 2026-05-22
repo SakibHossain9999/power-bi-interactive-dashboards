@@ -54,11 +54,11 @@ This interactive dashboard tracks sales performance for **Pizza Hat** — a fict
 ```
 pizza-hat-sales/
 │
-├── Pizza_Hat_Sales_Dashboard.pbix     ← Power BI report
 ├── data/
 │   └── pizza_hat_pizza_sales.xlsx     ← Sales data
 ├── screenshots/
 │   └── pizza-hat-dashboard.png        ← Dashboard preview
+├── Pizza_Hat_Sales_Dashboard.pbix     ← Power BI report
 └── README.md
 ```
 

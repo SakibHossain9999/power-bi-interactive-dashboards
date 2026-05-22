@@ -21,8 +21,8 @@ Instructor: Hussein ElGhoul · Completed: May 22, 2026
 
 | # | Dashboard | Dataset | Tools | Folder |
 |---|-----------|---------|-------|--------|
-| 1 | 🍕 Pizza Hat Sales | Pizza sales across 5 branches | Power BI, Excel | [View →](./pizza-hat-sales/) |
-| 2 | 🐬 Dolphin High School Student Performance | Student records by grade, gender & hobby | Power BI, Excel | [View →](./dolphin-high-school-performance/) |
+| 1 | 🐬 Dolphin High School Student Performance | Student records by grade, gender & hobby | Power BI, Excel | [View →](./dolphin-high-school-performance/) |
+| 2 | 🍕 Pizza Hat Sales | Pizza sales across 5 branches | Power BI, Excel | [View →](./pizza-hat-sales/) |
 | 3 | 💼 TechMENA Employee Report | Employee HR data across departments & countries | Power BI, Excel | [View →](./techmena-employee-report/) |
 
 ---

@@ -44,14 +44,6 @@ power-bi-interactive-dashboards/
 │
 ├── README.md                                        ← You are here
 │
-├── pizza-hat-sales/
-│   ├── README.md
-│   ├── Pizza_Hat_Sales_Dashboard.pbix
-│   ├── data/
-│   │   └── pizza_hat_pizza_sales.xlsx
-│   └── screenshots/
-│       └── pizza-hat-dashboard.png
-│
 ├── dolphin-high-school-performance/
 │   ├── README.md
 │   ├── Dolphin_High_School_Students_Performance_Dashboard.pbix
@@ -59,6 +51,14 @@ power-bi-interactive-dashboards/
 │   │   └── dolphin_high_school_students.xlsx
 │   └── screenshots/
 │       └── dolphin-high-school-dashboard.png
+│
+├── pizza-hat-sales/
+│   ├── README.md
+│   ├── Pizza_Hat_Sales_Dashboard.pbix
+│   ├── data/
+│   │   └── pizza_hat_pizza_sales.xlsx
+│   └── screenshots/
+│       └── pizza-hat-dashboard.png
 │
 └── techmena-employee-report/
     ├── README.md

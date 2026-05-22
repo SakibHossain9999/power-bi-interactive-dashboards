@@ -46,27 +46,27 @@ power-bi-interactive-dashboards/
 │
 ├── dolphin-high-school-performance/
 │   ├── README.md
-│   ├── Dolphin_High_School_Students_Performance_Dashboard.pbix
 │   ├── data/
 │   │   └── dolphin_high_school_students.xlsx
-│   └── screenshots/
-│       └── dolphin-high-school-dashboard.png
+│   ├── screenshots/
+│   │   └── dolphin-high-school-dashboard.png
+│   └── Dolphin_High_School_Students_Performance_Dashboard.pbix
 │
 ├── pizza-hat-sales/
 │   ├── README.md
-│   ├── Pizza_Hat_Sales_Dashboard.pbix
 │   ├── data/
 │   │   └── pizza_hat_pizza_sales.xlsx
-│   └── screenshots/
-│       └── pizza-hat-dashboard.png
+│   ├── screenshots/
+│   │   └── pizza-hat-dashboard.png
+│   └── Pizza_Hat_Sales_Dashboard.pbix
 │
 └── techmena-employee-report/
     ├── README.md
-    ├── TechMENA_Employee_Report_Dashboard.pbix
     ├── data/
     │   └── techmena_Employees.xlsx
-    └── screenshots/
-        └── techmena-dashboard.png
+    ├── screenshots/
+    │   └── techmena-dashboard.png
+    └── TechMENA_Employee_Report_Dashboard.pbix
 ```
 
 ---
